@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "name": "Pepe",
+      "phone": "1234567890",
+      "street": "Main St",
+      "city": "New York",
+      "id": "1"
+    },
+    {
+      "name": "Arturo",
+      "street": "2nd St",
+      "city": "New York",
+      "id": "2"
+    },
+    {
+      "name": "Manu",
+      "phone": "1234567890",
+      "street": "street 1234",
+      "city": "New York",
+      "id": "3"
+    }
+  ]
+}
